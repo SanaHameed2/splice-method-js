@@ -16,20 +16,21 @@ It also makes your coding logic stronger and prepares you for other JavaScript t
 ## How to Learn from This Repo
 
 - Read each example slowly and carefully.
-- Try to guess what the result will be before running it.
 - Change the numbers or values to see what happens.
 - Think: What happens if I remove more items? Or add at a different place?
+- Write your own small examples using `splice()` to test your understanding.
+
 
 This will help you learn by doing — not just reading.
 
 ---
 
-## Need Help?
+## Need any Help?
 
 If you don’t understand something or get stuck, that’s okay!  
 You can:
 
-- Ask a question in the comments (if shared on GitHub)
+- Ask a question in the comments
 - Open an issue (if you're using GitHub)
 - Or message me if you’re learning with me
 
